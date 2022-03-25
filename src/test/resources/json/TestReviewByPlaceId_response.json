@@ -1,0 +1,50 @@
+[
+  {
+    "id": 87,
+    "review": "blabla",
+    "authorId": 27,
+    "mark": {
+      "id": 1,
+      "value": "good"
+    },
+    "dateCreation": "2022-03-14T20:00:00.000+00:00",
+    "dateEdit": null,
+    "placeId": 10
+  },
+  {
+    "id": 88,
+    "review": "blabla",
+    "authorId": 27,
+    "mark": {
+      "id": 1,
+      "value": "good"
+    },
+    "dateCreation": "2022-03-17T20:00:00.000+00:00",
+    "dateEdit": null,
+    "placeId": 10
+  },
+  {
+    "id": 90,
+    "review": "gg",
+    "authorId": 27,
+    "mark": {
+      "id": 2,
+      "value": "super"
+    },
+    "dateCreation": "2022-03-21T20:00:00.000+00:00",
+    "dateEdit": "2022-03-22T20:00:00.000+00:00",
+    "placeId": 10
+  },
+  {
+    "id": 91,
+    "review": "blabla",
+    "authorId": 1,
+    "mark": {
+      "id": 1,
+      "value": "good"
+    },
+    "dateCreation": "2022-03-22T20:00:00.000+00:00",
+    "dateEdit": null,
+    "placeId": 10
+  }
+]
